@@ -1,0 +1,5 @@
+前端到web那里，执行npm install  好了就执行npm run dev
+如果eslint报错就执行：
+npm init -y
+npm install eslint --save-dev
+登录地址：http://localhost:9528/  账号密码在j_user表里面
